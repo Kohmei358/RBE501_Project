@@ -50,9 +50,8 @@ In this project, we have developed a simulated model of the quadruped and dynami
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Proffessor **Loris Fichera**
-* **Neet Mehulkumar mehta** [@beast-nev](https://github.com/beast-nev)
+* **Neet Mehulkumar mehta**
 * **Kohmei Kadoya.** [@Kohmei358](https://github.com/Kohmei358)
-* **Sumanth varma pericherla** [@kslokhandwala2022](https://github.com/kslokhandwala2022)
-* **Kishor Sabarish Ganapathy subramanian** [@kslokhandwala2022](https://github.com/kslokhandwala2022)
-
+* **Sumanth varma pericherla**
+* **Kishor Sabarish Ganapathy subramanian**
 [product-screenshot]: RBE501Poster.jpg
