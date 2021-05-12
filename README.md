@@ -14,9 +14,7 @@ In this project, we have developed a simulated model of the quadruped and dynami
 
 **Watch a video of our [final presentation](https://youtu.be/84nr0pFNmIE) on Youtube**
 
-**See more [screenshots](https://drive.google.com/drive/folders/1IVsE6aBYgut-1ja_xGQBNLKaQGX4bQh1?usp=sharing) of our app**
-
-**Download our [final submission doc](https://docs.google.com/document/d/1isP2y5EyYgsyj1HRhtxLBZyQ3JKt5DbxevlvPPygO1I/edit?usp=sharing) which contains information on our Scrum process**
+**Download our [final submission doc](https://docs.google.com/document/d/1isP2y5EyYgsyj1HRhtxLBZyQ3JKt5DbxevlvPPygO1I/edit?usp=sharing)**
 
 ### Built With
 
