@@ -39,16 +39,16 @@ In this project, we have developed a simulated model of the quadruped and dynami
 
 ## Testing Gaits in SIMULINK
 
-1. To simulate the walking gait, run the file BetterGait.slx
-2. To simulate the galloping gait, run the file CustomOne.slx
+1. To simulate the walking gait, run the file "BetterGait.slx"
+2. To simulate the galloping gait, run the file "CustomOne.slx"
 
 ## Testing Lagrange Euler
 
-1. To generate the lagrange equations, run the file Lagrange_Euler_dynamics/Lagrange_Euler_main.m
+1. To generate the lagrange equations, run the file "Lagrange_Euler_dynamics/Lagrange_Euler_main.m"
 
 ## Testing Dynmaics + Torque Profile Generation
 
-1. For Newton-Euler Torque profile generation, Please Open ProjectNE.m file and Run the code and observe the joint torque profiles.
+1. For Newton-Euler Torque profile generation, Please Open "ProjectNE.m" file and Run the code and observe the joint torque profiles.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
