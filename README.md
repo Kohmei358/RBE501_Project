@@ -36,8 +36,8 @@ In this project, we have developed a simulated model of the quadruped and dynami
 
 ## Testing Gaits in SIMULINK
 
-1. To simulate the walking gait, run the file XXX.xsl
-2. To simulate the galloping gait, run the file XXX.xsl
+1. To simulate the walking gait, run the file BetterGait.slx
+2. To simulate the galloping gait, run the file CustomOne.slx
 
 ## Testing Lagrange Euler
 
