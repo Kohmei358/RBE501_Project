@@ -54,4 +54,5 @@ In this project, we have developed a simulated model of the quadruped and dynami
 * **Kohmei Kadoya.** [@Kohmei358](https://github.com/Kohmei358)
 * **Sumanth varma pericherla**
 * **Kishor Sabarish Ganapathy subramanian**
+
 [product-screenshot]: RBE501Poster.jpg
