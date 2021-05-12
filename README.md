@@ -45,7 +45,4 @@ In this project, we have developed a simulated model of the quadruped and dynami
 * **Sumanth varma pericherla** [@kslokhandwala2022](https://github.com/kslokhandwala2022)
 * **Kishor Sabarish Ganapathy subramanian** [@kslokhandwala2022](https://github.com/kslokhandwala2022)
 
-## Disclaimer
-This was forked so that I could link this code in [my website](https://kohmeik.com). Please do not reference any of the code or UX design if you are currently enrolled in Software Engineering! The learning experience is so much better if you do not look at examples of previous work and your team will end up with a better final product if you brainstorm based on your surveys and interviews.
-
 [product-screenshot]: RBE501Poster.jpg
