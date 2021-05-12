@@ -28,20 +28,32 @@ In this project, we have developed a simulated model of the quadruped and dynami
 ## Getting Started
 
 1. Install [MATLAB](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-2. Install [Robotics Toolbox by Peter Corke](https://gluonhq.com/products/scene-builder/)
-3. Clone this repo
+2. Install [Simulink Multibody](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+3. Install [Robotics Toolbox by Peter Corke](https://gluonhq.com/products/scene-builder/)
+4. Clone this repo
    ```sh
    git clone https://github.com/Kohmei358/RBE501_Project
    ```
 4.Open and run (Green Play Button) thefile "Assemble1_DataFile1.m"
-5.Open and run any of the gait files.
 
+## Testing Gaits in SIMULINK
+
+1. To simulate the walking gait, run the file XXX.xsl
+2. To simulate the galloping gait, run the file XXX.xsl
+
+## Testing Lagrange Euler
+
+1. To generate the lagrange equations, run the file Lagrange_Euler_dynamics/Lagrange_Euler_main.m
+
+## Testing Dynmaics + Torque Profile Generation
+
+1. For Newton-Euler Torque profile generation, Please Open ProjectNE.m file and Run the code and observe the joint torque profiles.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Proffessor **Loris Fichera**
-* **Kohmei Kadoya.** [@Kohmei358](https://github.com/Kohmei358)
 * **Neet Mehulkumar mehta** [@beast-nev](https://github.com/beast-nev)
+* * **Kohmei Kadoya.** [@Kohmei358](https://github.com/Kohmei358)
 * **Sumanth varma pericherla** [@kslokhandwala2022](https://github.com/kslokhandwala2022)
 * **Kishor Sabarish Ganapathy subramanian** [@kslokhandwala2022](https://github.com/kslokhandwala2022)
 
