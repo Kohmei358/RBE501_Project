@@ -1,3 +1,6 @@
+Please look at this page in github. It looks much nicer here:
+https://github.com/Kohmei358/RBE501_Project
+
 <!-- ABOUT THE PROJECT -->
 [![Product Name Screen Shot][product-screenshot]](https://youtu.be/84nr0pFNmIE)
 
